@@ -1,2 +1,11 @@
-
+main{
+    width: 150px;
+    background-color: black;
+   
+}
+p{
+    margin-left: 32px;
+    color: white;
+    padding: 10px;
+}
 /* Your CSS Code here. */
